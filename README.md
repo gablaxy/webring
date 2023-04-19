@@ -18,4 +18,4 @@
 
 
 
-### PS : le js sur ce repo est le même que celui appelé
+PS : le js sur ce repo est le même que celui appelé
