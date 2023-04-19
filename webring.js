@@ -1,4 +1,4 @@
-const JSON_WEBRING = "https://gablaxy.github.io/webring.json";
+const JSON_WEBRING = "https://raw.githubusercontent.com/gablaxy/webring/main/webring.json";
 
 const template = document.createElement("template");
 template.innerHTML = `
