@@ -4,7 +4,7 @@
  - rajouter ces deux lignes au bas de son footer (ou quelque-part d'autre)
 ```html
 <webring-iutechno site="nom_de_votre_site"></webring-iutechno>
-<script src="https://github.com/gablaxy/webring/blob/main/webring.js"></script>
+<script src="https://gablaxy.github.io/webring.js"></script>
 ```
 - faire une demande pour modifier le json de ce repository avec les deux lignes suivantes :
 ```json
