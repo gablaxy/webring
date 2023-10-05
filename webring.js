@@ -83,6 +83,17 @@ class Webring extends HTMLElement {
                 this.shadowRoot
                     .querySelector("#webring-inner")
                     .insertAdjacentHTML("afterbegin", content);
+            })
+            .catch((error) => {
+                console.error(error);
+                const content = `
+                <h3 id="webring-title">grossomodo</h3>
+                <p>T'es pas dans le gang bozo</p>
+                `;
+                
+                this.shadowRoot
+                    .querySelector("#webring-inner")
+                    .insertAdjacentHTML("afterbegin", content);
             });
     }
 }
