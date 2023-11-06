@@ -11,7 +11,7 @@
  - rajouter ces deux lignes au bas de son footer (ou quelque-part d'autre)
 ```html
 <webring-iutechno site="nom_de_votre_site"></webring-iutechno>
-<script src="https://gablaxy.github.io/webring.js"></script>
+<script src="https://raw.githubusercontent.com/gablaxy/webring/main/webring.js"></script>
 ```
 - profitez
 
