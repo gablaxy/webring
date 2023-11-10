@@ -8,5 +8,8 @@
     },{
         "name": "github",
         "url": "https://github.com"
+    },{
+        "name": "Khan",
+        "url": "https://bsd-us.github.io"
     }
 ]
