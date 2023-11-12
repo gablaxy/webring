@@ -10,7 +10,7 @@
 ```
  - rajouter ces deux lignes au bas de son footer (ou quelque-part d'autre)
 ```html
-<webring-iutechno site="nom_de_votre_site"></webring-iutechno>
+<webring-iutechno site="url_de_votre_site_dans_le_json"></webring-iutechno>
 <script src="https://raw.githubusercontent.com/gablaxy/webring/main/webring.js"></script>
 ```
 - profitez
