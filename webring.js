@@ -18,7 +18,8 @@ template.innerHTML = `
     margin-top: 0;
     margin-bottom: 3px;
     padding: 0 5px;
-    font-size: 0.8em;
+    font-size: 1.2em;
+    text-align: center;
 }
 
 #webring-inner a{
