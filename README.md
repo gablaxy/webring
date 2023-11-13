@@ -11,9 +11,6 @@
  - rajouter ces deux lignes au bas de son footer (ou quelque-part d'autre)
 ```html
 <webring-iutechno site="url_de_votre_site_dans_le_json"></webring-iutechno>
-<script src="https://raw.githubusercontent.com/gablaxy/webring/main/webring.js"></script>
+<script src="./webring.js"></script>
 ```
-- profitez
-
-
-PS : le js sur ce repo est le même que celui appelé
+- télécharger le fichier webring.js sur votre site et éditez le chemin du script ci dessus en conséquence, pour l'instant ça marche comme ça mais quand j'aurais un serveur perso vous pourrez passer un lien vers ce serveur pour avoir la dernière version du script.
