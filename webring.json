@@ -1,9 +1,11 @@
 [
     {
         "name": "HUB",
-        "url": "https://gablaxy.github.io/links"
+        "url": "https://gablaxy.github.io/links",
+        "img_link" : "https://randomfox.ca/floof/"
     },{
         "name": "Khan",
-        "url": "https://bsd-us.github.io"
+        "url": "https://bsd-us.github.io",
+        "img_link" : "https://randomfox.ca/floof/"
     }
 ]
