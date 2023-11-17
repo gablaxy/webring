@@ -5,7 +5,8 @@
 ```json
 {
         "name": "nom_de_votre_site",
-        "url": "url_de_votre_site"
+        "url": "url_de_votre_site",
+	"img_link": "lien_vers_une_image_pour_une_illustration"
 				}
 ```
  - rajouter ces deux lignes au bas de son footer (ou quelque-part d'autre)
